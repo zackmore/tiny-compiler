@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Now I understood [compiler](https://github.com/jamiebuilds/the-super-tiny-compiler).",
+  "main": "compiler.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
